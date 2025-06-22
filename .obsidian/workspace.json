@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "11a0990580f5beab",
+    "type": "split",
+    "children": [
+      {
+        "id": "803ec374b15726f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "341bbc8aa3be6bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/Github/Github - Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Github - Obsidian"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c890dca9ae874052",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e058592b8f71249",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aef9723e50fa4929",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2993f9d7bff194c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "681ecb3e422172b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8415b5bf8f9e34c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac880eebd791fb7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "425677dd0dd84c75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COMPTABILITÉ/06 - Revenus futurs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 06 - Revenus futurs"
+            }
+          },
+          {
+            "id": "794c95049fb5d9c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "COMPTABILITÉ/0 - SOMMAIRE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0 - SOMMAIRE"
+            }
+          },
+          {
+            "id": "8b9613802c5c8126",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c581572c22d84f96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "COMPTABILITÉ/0 - SOMMAIRE.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0 - SOMMAIRE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "341bbc8aa3be6bd6",
+  "lastOpenFiles": [
+    "CODING/Github/Github - Conventional Commits.md",
+    "CODING/Github/Github - Obsidian.md",
+    "PERSONAL DEVELOPMENT/VOCABULAIRE.md",
+    "Test/Test Branche Github.md",
+    "Test",
+    "CODING/Github/Github - Commit-Push-Pull.md",
+    "COMPTABILITÉ/06 - Revenus futurs.md",
+    "COMPTABILITÉ/05 - États financiers.md",
+    "COMPTABILITÉ/04 - Méthode de comptabilité en partie double.md",
+    "COMPTABILITÉ/03 - Grands livres.md",
+    "COMPTABILITÉ/02 - Éléments de base.md",
+    "CODING/Github - Commit-Push-Pull.md",
+    "PERSONAL DEVELOPMENT/GXT/MATH FORMULA FOR SUCCESS.md",
+    "PERSONAL DEVELOPMENT/FOUNDER PODCAST/SAM ALTMAN.md",
+    "PERSONAL DEVELOPMENT/GXT",
+    "PERSONAL DEVELOPMENT/FOUNDER PODCAST",
+    "PERSONAL DEVELOPMENT",
+    "CODING/Github",
+    "COMPTABILITÉ/22 - Incoterms.md",
+    "COMPTABILITÉ/21 - Enregistrements de base.md",
+    "COMPTABILITÉ/20 - Marge par secteur d'activité.md",
+    "COMPTABILITÉ/19 - Analyse de la rentabilité et Point Mort.md",
+    "COMPTABILITÉ/18 - Coût marginal & rentabilité.md",
+    "COMPTABILITÉ/17 - Calcul du prix de vente.md",
+    "COMPTABILITÉ/15 - Suivi des charges, des coûts, des produits & rentabilité.md",
+    "COMPTABILITÉ/14 - La Compta Clients & Fournisseurs.md",
+    "COMPTABILITÉ/12 - Gestion de trésorerie.md",
+    "COMPTABILITÉ/01 - Qu’est-ce que la comptabilité.md",
+    "COMPTABILITÉ/0 - SOMMAIRE.md",
+    "COMPTABILITÉ/16 - Calcul du prix de revient.md",
+    "CODING",
+    "SALES",
+    "ALU-FONTE",
+    "COMPTABILITÉ"
+  ]
+}
